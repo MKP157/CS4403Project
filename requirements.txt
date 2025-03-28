@@ -6,4 +6,7 @@ xgboost
 scikit-learn
 gdown
 matplotlib
-cupy
+#cupy
+seaborn
+duckdb
+colorama
